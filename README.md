@@ -12,7 +12,7 @@ README（自述文件）文件的后缀名为md(markdown)，markdown是一种编
 关于在MD中添加标题可以使用连续等于号“===”与连续减号“---”来实现。
 如果想要添加一个大标题，就只需要在文本下方加上等于号，等于号的个数可以随便但是一定要大于0。
 
-![](https://github.com/)
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 效果如下：
 <br>
