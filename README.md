@@ -78,8 +78,13 @@ EDG牛逼！！！
 如果想要显示\<br>怎么办，这里就引入了转义，通过在\<br>的前边加上反斜杠"\\"就可以实现转义。同理所有的编辑标记都可以通过转义来显示出来。<br>
 效果就像上边这两句话。而在编辑器里边它是这样的:
 
-![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/5.PNG)
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/c7af79810b5f4d3b13141d451fb1737298b3a958/png/5.png)
 
+如果想要显示一个超链接，就直接在编辑器里边打上这个超链接的URL,显示出来就是一个可点击的超链接：www.baidu.com<br>
+<br>
+如果想要显示空格的话就把输入法改成全角再敲一下空格。
+<br>
+### 单行文本
 
 
 
