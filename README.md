@@ -78,6 +78,7 @@ EDG牛逼！！！
 如果想要显示\<br>怎么办，这里就引入了转义，通过在\<br>的前边加上反斜杠"\\"就可以实现转义。同理所有的编辑标记都可以通过转义来显示出来。<br>
 效果就像上边这两句话。而在编辑器里边它是这样的:
 
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/5.PNG)
 
 
 
