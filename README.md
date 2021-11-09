@@ -86,14 +86,18 @@ EDG牛逼！！！
 <br>
 ### 单行文本
 在文本之前输入两个tab就可以实现单行文本。<br>
-【6】
+
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/6.png)
+
 可以看见单行文本的字体颜色和普通文本的颜色是不一样的，可以很方便的区分。这里需要注意的是单行文本和下面的多行文本之前需要补空行。<br>
 效果如下：
 
     EDG牛逼！！！
 ### 多行文本
 多行文本和单行文本一样，每一行的前边都有两个tab，方便的是在第一行后边回车直接输入文本就是多行文本了，也就是说不用每一行都去按两下tab。
-【7】
+
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/7.png)
+
 效果如下：
 
     EDG牛逼！！！
@@ -103,7 +107,9 @@ EDG牛逼！！！
 ### 文字高亮
 
 可以使用··把想要突出强调的文字框起来，”·“字符非常冷门百度了一大圈不知道读什么，它不是单引号而是tab键的上边数字1键的左边（注意使用英文输入法）。<br>
-【8】
+
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/8.png)
+
 效果如下：
 
 一只`哈巴狗`，趴在`大门口`。
@@ -140,7 +146,9 @@ EDG牛逼！！！
 ### 圆点符
 <br>
 在MD中，输入星号”*“加一个空格就可以达到圆点符的效果。如果不加空格打出来的就是普通星号的效果。
-【9】
+
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/9.png)
+
 效果如下：
 
 * 姓名：张大炮
@@ -148,7 +156,9 @@ EDG牛逼！！！
 * 学位：大魔导士
 
 想要有分级的效果的话只需要在下一级的星号之前按一个tab，二级是一个，三级是两个，以此类推。
-【10】
+
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/10.png)
+
 效果如下：
 
 * 紫罗兰国立魔法大学
@@ -170,9 +180,13 @@ GitHub于2008年4月10日正式上线，除了Git代码仓库托管及基本的W
 > 2008年4月10日，GitHub正式上线。2014年1月23日，联合创始人汤姆·普雷斯顿-维尔纳（Tom Preston-Werner）从另一位联合创始人克里斯·万斯特拉斯（Chris Wanstrath）手中接过总裁职位，后者也将接过普雷斯顿-维尔纳留下的CEO位置。2018年6月4日晚，微软宣布，通过75亿美元的股票交易收购GitHub。 10月26日，微软以75亿美元收购GitHub交易已完成。10月29日，微软开发者服务副总裁奈特·弗里德曼（Nat Friedman）将成为GitHub的新一任CEO。 2020年3月17日，Github宣布收购npm，GitHub现在已经保证npm将永远免费使用。2021年11月4日消息，微软宣布GitHub CEO奈特·弗里德曼将于11月15日卸任，其职位由GitHub产品主管托马斯·多梅克接替。
 <br>
 想要产生这样的效果就只需要在需要缩进的文本前边加上一个大于号">"就好了。就像这样：
-【11】
+
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/11.png)
+
 和这样：
-【12】
+
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/12.png)
+
 
 ## 图片
 <br>
@@ -204,7 +218,9 @@ MD中插入图片最基本的语法是：
         --------------------------------
         [标识性文字]:图片URL "鼠标悬停文字"
 需要保证链接与图片的标识性文字是一样的
-【14】
+
+![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/13.png)
+
 效果如下：
 
 [![baidu]](www.baidu.com)
