@@ -87,7 +87,7 @@ EDG牛逼！！！
 ### 单行文本
 在文本之前输入两个tab就可以实现单行文本。<br>
 
-![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/6.png)
+![](png/6.png)
 
 可以看见单行文本的字体颜色和普通文本的颜色是不一样的，可以很方便的区分。这里需要注意的是单行文本和下面的多行文本之前需要补空行。<br>
 效果如下：
@@ -96,7 +96,7 @@ EDG牛逼！！！
 ### 多行文本
 多行文本和单行文本一样，每一行的前边都有两个tab，方便的是在第一行后边回车直接输入文本就是多行文本了，也就是说不用每一行都去按两下tab。
 
-![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/7.png)
+![](png/7.png)
 
 效果如下：
 
@@ -108,7 +108,7 @@ EDG牛逼！！！
 
 可以使用··把想要突出强调的文字框起来，”·“字符非常冷门百度了一大圈不知道读什么，它不是单引号而是tab键的上边数字1键的左边（注意使用英文输入法）。<br>
 
-![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/8.png)
+![](png/8.png)
 
 效果如下：
 
@@ -147,7 +147,7 @@ EDG牛逼！！！
 <br>
 在MD中，输入星号”*“加一个空格就可以达到圆点符的效果。如果不加空格打出来的就是普通星号的效果。
 
-![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/9.png)
+![](png/9.png)
 
 效果如下：
 
@@ -157,7 +157,7 @@ EDG牛逼！！！
 
 想要有分级的效果的话只需要在下一级的星号之前按一个tab，二级是一个，三级是两个，以此类推。
 
-![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/10.png)
+![](png/10.png)
 
 效果如下：
 
@@ -181,11 +181,11 @@ GitHub于2008年4月10日正式上线，除了Git代码仓库托管及基本的W
 <br>
 想要产生这样的效果就只需要在需要缩进的文本前边加上一个大于号">"就好了。就像这样：
 
-![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/11.png)
+![](png/11.png)
 
 和这样：
 
-![](https://github.com/CalacalaBoom/README.learningnotes.maekdown/blob/5b4e575676a1ef9de4bcc7aebf84acdcda5cb24e/png/12.png)
+![](png/12.png)
 
 
 ## 图片
@@ -198,7 +198,9 @@ MD中插入图片最基本的语法是：
     ![标识性文字](图片URL "鼠标悬停文字")
     
 标识性文字对图片没有影响，真的就只是表示这一句话而已。鼠标悬停文字是你的鼠标悬停在图片上时显示的文字。实例如下：
-【13】
+
+![](png/13.png)
+
 效果如下：
 
 ![baidu](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png "百度logo")
